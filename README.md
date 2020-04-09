@@ -1,2 +1,2 @@
 # rutest
-Test repo for Ru
+Test repo for Rustam Yuldashev
